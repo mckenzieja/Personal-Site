@@ -1,0 +1,32 @@
+.section {
+  margin-top: 5em;
+  margin-bottom: 5em;
+}
+
+.intro {
+  margin-bottom: 2.5em;
+}
+
+.service-title {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-size: 1.3em;
+}
+
+.service-note {
+  margin-top: 10%;
+}
+.title-header {
+  margin-top: 0em;
+  margin-bottom: 1.5em;
+  font-weight: 200;
+}
+
+.social-lineup {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.last {
+  padding-bottom: 2%;
+}
