@@ -1,3 +1,14 @@
+@media (max-width: 420px) {
+  .service-title {
+    margin-top: 0px !important;
+    margin-bottom: 0px !important;
+  }
+  .service-note {
+    margin-top: 0px !important;
+    margin-bottom: 1.5em !important;
+  }
+}
+
 .section {
   margin-top: 5em;
   margin-bottom: 5em;
